@@ -1,2 +1,2 @@
 # PhoneBookRest
-Spring web mvc
+Java Spring Web MVC
